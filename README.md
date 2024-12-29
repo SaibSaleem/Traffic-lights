@@ -1,2 +1,2 @@
 # Traffic-lights
-I madeTraffic Lights by python programming language.
+I madeTraffic Signals (lights) by HTML5 and CSS
